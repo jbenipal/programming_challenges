@@ -1,1 +1,1 @@
-# programming_challenges
+# programming_challenges by Steven Skiena
